@@ -1,0 +1,9 @@
+Package: teamrpack
+Type: Package
+Title: Team Package
+Version:1.0
+Date:2012-11-7
+Author: Du Yang Hua
+Maintainer:Yu Du <ydu10@jhu.edu>
+Description: This R package contains 1 function and 1 dataset
+License: GPL-3
